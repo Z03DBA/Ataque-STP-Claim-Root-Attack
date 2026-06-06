@@ -1,4 +1,4 @@
-# 🛡️Security Audit: Spanning Tree Protocol (STP) Manipulation
+ # 🛡️Security Audit: Spanning Tree Protocol (STP) Manipulation
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-GNS3-blue?style=for-the-badge&logo=virtualbox&logoColor=white" alt="GNS3 Platform">
